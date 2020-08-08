@@ -1,0 +1,4 @@
+#Sat Apr 25 22:26:53 EDT 2020
+base.0=/home/snigdha/Desktop/DS/SimpleDht/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
